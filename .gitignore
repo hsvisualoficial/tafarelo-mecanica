@@ -1,0 +1,12 @@
+# Dependências / temporários
+node_modules/
+_previews/
+.DS_Store
+Thumbs.db
+
+# Materiais de origem (não fazem parte do site publicado)
+Imagens-para-Cloud-Code/
+antigravity_deploy_desktop_final/
+antigravity_deploy_mobile_final/
+tafarelo_heritage_drive/
+.claude/
